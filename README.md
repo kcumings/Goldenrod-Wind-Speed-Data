@@ -9,14 +9,18 @@ When the wind speed was no longer readable, the anemometer was placed in the air
 At each site measurements were taken, the height of the plant to the top of the stem, the height of the plant to the top of the tallest leaf, the number of goldenrod neighbors within a hula hoop of 33 inch diameter, and the number of total neighbors within a hula hoop of 33 inch diameter were recorded as well.  
 
 Data from these measurements is compiled in several documents:
+
 -Original Data for Goldenrod.xlsx contains the full data as recorded in the field.
+
 -Wind Speed Data.csv contains the data used to model wind speed profile in the field as described in Appendix B.3 of my thesis.  From left to right, data in each column are measurements of the height at which wind was observed (cm), plant height to the top of the stem (cm), plant height to top of tallest leaf (cm), mean plant height in patch (cm), number of goldenrod stems per m^2, number of all plants per m^2, wind speed in Albany (mph), wind speed in Schenectady (mph), and the wind speed measured (m/s).  
+
 -roughnesslengthdata..csv contains the Roughness Length Data used to estimate the roughness length of the field in Appendix B.2 of my thesis.  From left to right, data in each column are measurements of plant height to the top of the stem (cm), plant height to top of tallest leaf (cm), mean plant height in patch (cm), number of goldenrod stems per m^2, number of all plants per m^2, wind speed in Albany (mph), wind speed in Schenectady (mph), and the height (cm) at which the wind stopped during that measurement.  
 
 
 Modeling Leaf Area as Plants Grow
 ---------------------------------
 In addition to collecting data on wind speed through the field and the roughness length of the goldenrod field, several plants were collected from the field on July 28, 2015.  For each plant, height, length, and width of each leaf were measured.  We estimated the leaf area from these measurements using the formula for the area of an ellipse.  In order to estimate leaf area for our goldenrod plants as they grow, we used the data for six plants which had only a single stem.  Many plants were removed from the original data set for having multiple stems, which would make it difficult to compare the two sets of data. From left to right, data in each column are height at which plant was located (cm), length of leaf (cm), width of leaf (cm), and leaf area (cm^2) as estimated using the area of an ellipse with the measured length and width.  Data from plants with a single stalk were used to estimate leaf area in the field and are provided in:
+
 -Plant 1 Leaf Area.csv
 -Plant 2 Leaf Area.csv
 -Plant 3 Leaf Area.csv
