@@ -14,7 +14,7 @@ Data from these measurements is compiled in several documents:
 
 -Wind Speed Data.csv contains the data used to model wind speed profile in the field as described in Appendix B.3 of my thesis.  From left to right, data in each column are measurements of the height at which wind was observed (cm), plant height to the top of the stem (cm), plant height to top of tallest leaf (cm), mean plant height in patch (cm), number of goldenrod stems per m^2, number of all plants per m^2, wind speed in Albany (mph), wind speed in Schenectady (mph), and the wind speed measured (m/s).  
 
--roughnesslengthdata..csv contains the Roughness Length Data used to estimate the roughness length of the field in Appendix B.2 of my thesis.  From left to right, data in each column are measurements of plant height to the top of the stem (cm), plant height to top of tallest leaf (cm), mean plant height in patch (cm), number of goldenrod stems per m^2, number of all plants per m^2, wind speed in Albany (mph), wind speed in Schenectady (mph), and the height (cm) at which the wind stopped during that measurement.  
+-roughnesslengthdataoneperrow.csv contains the Roughness Length Data used to estimate the roughness length of the field in Appendix B.2 of my thesis.  From left to right, data in each column are measurements of plant height to the top of the stem (cm), plant height to top of tallest leaf (cm), mean plant height in patch (cm), number of goldenrod stems per m^2, number of all plants per m^2, wind speed in Albany (mph), wind speed in Schenectady (mph), and the height (cm) at which the wind stopped during that measurement.  
 
 
 Modeling Leaf Area as Plants Grow
