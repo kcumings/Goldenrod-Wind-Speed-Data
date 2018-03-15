@@ -19,7 +19,11 @@ Data from these measurements is compiled in several documents:
 
 Modeling Leaf Area as Plants Grow
 ---------------------------------
-In addition to collecting data on wind speed through the field and the roughness length of the goldenrod field, several plants were collected from the field on July 28, 2015.  For each plant, height, length, and width of each leaf were measured.  We estimated the leaf area from these measurements using the formula for the area of an ellipse.  In order to estimate leaf area for our goldenrod plants as they grow, we used the data for six plants which had only a single stem.  Many plants were removed from the original data set for having multiple stems, which would make it difficult to compare the two sets of data. From left to right, data in each column are height at which plant was located (cm), length of leaf (cm), width of leaf (cm), and leaf area (cm^2) as estimated using the area of an ellipse with the measured length and width.  Data from plants with a single stalk were used to estimate leaf area in the field and are provided in:
+In addition to collecting data on wind speed through the field and the roughness length of the goldenrod field, several plants were collected from the field on July 28, 2015.  For each plant, height, length, and width of each leaf were measured.  We estimated the leaf area from these measurements using the formula for the area of an ellipse.  In order to estimate leaf area for our goldenrod plants as they grow, we used the data for six plants which had only a single stem.  Many plants were removed from the original data set for having multiple stems, which would make it difficult to compare the two sets of data. From left to right, data in each column are height at which plant was located (cm), length of leaf (cm), width of leaf (cm), and leaf area (cm^2) as estimated using the area of an ellipse with the measured length and width.  Full data is available in 
+
+-Leaf Height Area Data.xlsx
+
+Data from plants with a single stalk were used to estimate leaf area in the field and are provided in:
 
 -Plant 1 Leaf Area.csv
 
