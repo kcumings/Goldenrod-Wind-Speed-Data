@@ -4,9 +4,9 @@ Wind Speed Data from Goldenrod Field in Clifton Park NY July 2015
 -----------------------------------------------------------------
 Data was collected in the field in front of Enterprise, at the corner of 21st Century Park Drive and Route 146, in Clifton Park, NY (N 42 degrees 52 minutes 10.29 seconds, W 73 degrees 50 minutes 25.99 seconds).  Data was collected weekly on Wednesday mornings, and visits lasted from 2.5 hours to 4 hours.  Wind data was collected starting roughly 10 cm over the mean height of the tallest plot and moving 5 cm lower with every set of readings until the wind no longer registered on the anemometer.  Three readings were performed at each height.  
 
-When the wind speed was no longer readable, the anemometer was placed in the air above the plot, allowed to catch a breeze, and pulled down until the anemometer stopped moving.  Efforts were made to not block the wind by moving around the plant and/or crouching down before repeating readings.  The anemometer is NIST Traceable certified to have an error of $\pm 5 \%$ and cannot read wind speeds below 0.1 $\frac{\mathrm{m}}{\mathrm{s}}$.  
+When the wind speed was no longer readable, the anemometer was placed in the air above the plot, allowed to catch a breeze, and pulled down until the anemometer stopped moving.  Efforts were made to not block the wind by moving around the plant and/or crouching down before repeating readings.  The anemometer is NIST Traceable certified to have an error of +/-5 % and cannot read wind speeds below 0.1 m/s.  
 
-At each site measurements were taken, the height of the plant to the top of the stem ($h_s$), the height of the plant to the top of the tallest leaf ($h_l$), the number of goldenrod neighbors within a hula hoop of 33 inch diameter ($d_g$), and the number of total neighbors within a hula hoop of 33 inch diameter ($d_t$) were recorded as well.  
+At each site measurements were taken, the height of the plant to the top of the stem, the height of the plant to the top of the tallest leaf, the number of goldenrod neighbors within a hula hoop of 33 inch diameter, and the number of total neighbors within a hula hoop of 33 inch diameter were recorded as well.  
 
 Data from these measurements is compiled in several documents:
 -Original Data for Goldenrod.xlsx contains the full data as recorded in the field.
